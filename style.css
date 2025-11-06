@@ -1,0 +1,24 @@
+h1, h2 
+{
+	color: pink;
+}
+p, td
+{
+        color: purple;
+}
+.text-center{
+        text-align: center;
+}
+
+#rounded-img{
+        border-radius: 30px;
+}
+table, tr, td{
+        border: 2px solid pink;
+        border-collapse: collapse;
+}
+body{
+        background-image: url("images/background.jpg");
+        background-size: cover;
+        color: white;
+}
